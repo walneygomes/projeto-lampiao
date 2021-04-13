@@ -1,0 +1,25 @@
+.container-fluid {
+  padding: 0.5rem
+}
+
+.App{
+  background: rgb(4 0 0);
+}
+body {
+  background: rgb(4 0 0);
+}
+
+.table-dark {
+  background: #1f232e;
+}
+
+.cabeca {
+  background: red;}
+
+td {
+  color: #a3cf06;
+}
+
+p {
+  color: red;
+}
